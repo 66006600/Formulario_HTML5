@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+}
+
+#navbar-brand mb-0 h1 {
+    background-color: hotpink
+    color=red;
+} 
