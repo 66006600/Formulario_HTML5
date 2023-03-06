@@ -6,3 +6,13 @@ body {
     background-color: hotpink
     color=red;
 } 
+.container2 {
+    border: 1px solid rgb(215, 212, 212);
+    border-radius: 6px;
+    background-color: rgb(132, 130, 130);
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly !important;
+    align-items: center;
+}
